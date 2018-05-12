@@ -1,9 +1,13 @@
 _repo: Flower-Children-The-Little-Cousins-of-the-Field-and-Garden_46934
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Ross, M. T.
     gutenberg_agent_id: '38278'
     url: http://www.gutenberg.org/2009/agents/38278
+covers:
+- cover_type: archival
+  image_path: 46934-h/images/cover.jpg
 creator:
   author:
     agent_name: Gordon, Elizabeth
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '44043'
     url: http://www.gutenberg.org/2009/agents/44043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46934#Flower-Children-The-Little-Cousins-of-the-Field-and-Garden
 gutenberg_issued: '2014-09-22'
 gutenberg_type: Text
 identifiers:
